@@ -69,12 +69,9 @@ ferramentas necessárias para a construção das imagens e, na data de hoje
 
 As imagens podem ser conferidas no docker hub através dos seguintes links:
 
-[Maven image](https://hub.docker.com/layers/library/maven/3.9.
-9-eclipse-temurin-21-alpine/images/sha256
--dcee7bb2ea4976ead9a95662700dc786e1528ee2215d1e7967724cd0fee4cacc?context=explore).
+[Maven image](https://hub.docker.com/layers/library/maven/3.9.9-eclipse-temurin-21-alpine/images/sha256-dcee7bb2ea4976ead9a95662700dc786e1528ee2215d1e7967724cd0fee4cacc?context=explore).
 
-[JRE image](https://hub.docker.com/layers/library/eclipse-temurin/21.0.
-5_11-jre-alpine/images/sha256-008d50b2730a72e475bfdfe651149d68180dc2689b808afb8b0bc669b3262a59?context=explore).
+[JRE image](https://hub.docker.com/layers/library/eclipse-temurin/21.0.5_11-jre-alpine/images/sha256-008d50b2730a72e475bfdfe651149d68180dc2689b808afb8b0bc669b3262a59?context=explore).
 
 ## Considerações finais
 
